@@ -1,1 +1,3 @@
-# 09b_Arrays_Lottery
+# 09b_ArrayList
+- Grundlagen: ArrayList in Java
+- Beispiel: ArrayList als Container für Objekt-Referenzen
