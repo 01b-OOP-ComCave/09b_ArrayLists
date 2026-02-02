@@ -1,3 +1,3 @@
-# 09b_ArrayList
-- Grundlagen: ArrayList in Java
-- Beispiel: ArrayList als Container für Objekt-Referenzen
+# 09b_ArrayLists
+- Grundlagen: ArrayLists in Java
+- Beispiel: ArrayLists als Container für Objekt-Referenzen
